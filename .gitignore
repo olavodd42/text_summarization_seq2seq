@@ -2,3 +2,4 @@ data
 */*.tfrecord
 *.tfrecord
 */vectorized*
+notebooks/*.npy
