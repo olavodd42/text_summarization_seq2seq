@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "document": "The government said Monday it has concluded talks with the Walt Disney Co. about building a theme park here, and an official said the two sides had reached a deal.",
+    "reference": "Government and Walt Disney reached an agreement to build a theme park, officials said."
+  },
+  {
+    "id": 2,
+    "document": "Scientists announced a breakthrough in battery technology: a new lithium-ion design that doubles energy density while reducing charge times. Early tests show improved longevity and safety.",
+    "reference": "Researchers developed a new lithium-ion battery with double the energy density and faster charging."
+  },
+  {
+    "id": 3,
+    "document": "Rising sea levels threaten coastal cities. Experts urge updating infrastructure and relocation planning as storms become stronger. Local governments are already reallocating budgets for adaptation.",
+    "reference": "Experts warn that rising sea levels require infrastructure updates and relocation planning for coastal cities."
+  },
+  {
+    "id": 4,
+    "document": "The startup unveiled a smartphone with a foldable display and an embedded AI assistant that can summarize calls and emails automatically. Preorders start next month.",
+    "reference": "A startup launched a smartphone with a foldable screen and AI assistant that summarizes calls and emails; preorders begin next month."
+  },
+  {
+    "id": 5,
+    "document": "The city's public transit system will extend weekend service hours and add 20 electric buses to reduce emissions and improve frequency on busy routes.",
+    "reference": "City extends weekend transit hours and adds 20 electric buses to cut emissions and improve service."
+  },
+  {
+    "id": 6,
+    "document": "A new study links regular exercise to improved mental health outcomes in adults. The research analyzed five years of data and controlled for diet and socioeconomic status.",
+    "reference": "Study finds regular exercise improves adult mental health after analyzing five years of data."
+  },
+  {
+    "id": 7,
+    "document": "After a long negotiation, the two labor unions accepted the wage proposal, averting a strike that would have closed several factories across the region.",
+    "reference": "Labor unions accepted a wage deal, avoiding a regional factory strike."
+  },
+  {
+    "id": 8,
+    "document": "Wildfire containment improved after crews used new drone mapping technology to identify hot spots and prioritize suppression efforts, officials said.",
+    "reference": "Officials credit drone mapping technology with helping crews better contain wildfires by locating hot spots."
+  },
+  {
+    "id": 9,
+    "document": "The education ministry announced updated guidelines for remote learning, encouraging interactive content and more frequent teacher feedback to boost student engagement.",
+    "reference": "Education ministry issues new remote learning guidelines emphasizing interactive content and frequent teacher feedback."
+  },
+  {
+    "id": 10,
+    "document": "A local bakery won a national award for its sourdough bread, praised for its crust and complex flavor. The owner said the recipe has been passed down for three generations.",
+    "reference": "A bakery received a national award for its sourdough, noted for crust and complex flavor; owner cited a three-generation recipe."
+  },
+  {
+    "id": 11,
+    "document": "The small biotech firm reported positive Phase 2 trial results for its cancer drug, showing tumor shrinkage in 60% of participants and manageable side effects.",
+    "reference": "Biotech reports Phase 2 success as cancer drug caused tumor shrinkage in 60% of patients with manageable side effects."
+  },
+  {
+    "id": 12,
+    "document": "City council voted to renovate the old riverfront warehouse into a community arts center, including studios, a gallery and a small theater. The project is expected to start next year.",
+    "reference": "City will convert riverfront warehouse into a community arts center with studios, gallery and theater starting next year."
+  }
+]
