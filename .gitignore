@@ -3,3 +3,4 @@ data
 *.tfrecord
 */vectorized*
 notebooks/*.npy
+notebooks/*.h5
